@@ -1,4 +1,4 @@
-# Project Name
+# Project Name 
 
 This repository contains a Python-based project with various installed packages that support face recognition, image processing, and data visualization.
 
@@ -10,7 +10,7 @@ This repository contains a Python-based project with various installed packages 
 
 ## Setup and Installation
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone https://github.com/SoulNikhar/Face_Recognition
 2. All dependency used
